@@ -4,7 +4,7 @@ public class BookName {
 
 	public BookName bookName;
 
-	public BookName getBookName() {
+	public BookName getbookName() {
 		return bookName;
 	}
 	public void setBookName(BookName bookName) {
